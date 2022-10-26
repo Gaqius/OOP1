@@ -1,0 +1,9 @@
+D:\Vytauto\HomeWork\Uni\IT\Savarankiski\U2-23\U2-23\bin\Debug\U2-23.exe.config
+D:\Vytauto\HomeWork\Uni\IT\Savarankiski\U2-23\U2-23\bin\Debug\U2-23.exe
+D:\Vytauto\HomeWork\Uni\IT\Savarankiski\U2-23\U2-23\bin\Debug\U2-23.pdb
+D:\Vytauto\HomeWork\Uni\IT\Savarankiski\U2-23\U2-23\obj\Debug\U2-23.csproj.AssemblyReference.cache
+D:\Vytauto\HomeWork\Uni\IT\Savarankiski\U2-23\U2-23\obj\Debug\U2-23.csproj.CoreCompileInputs.cache
+D:\Vytauto\HomeWork\Uni\IT\Savarankiski\U2-23\U2-23\obj\Debug\U2-23.exe
+D:\Vytauto\HomeWork\Uni\IT\Savarankiski\U2-23\U2-23\obj\Debug\U2-23.pdb
+D:\Vytauto\HomeWork\Uni\IT\Savarankiski\U2-23\U2-23\bin\Debug\RingData.txt
+D:\Vytauto\HomeWork\Uni\IT\Savarankiski\U2-23\U2-23\bin\Debug\RingData2.txt

@@ -1,0 +1,12 @@
+﻿Parduotuve2
+Adresas2
+TelefonoNr2
+gamintojas10;pavadinimas10;platina;6;12;800;600
+gamintojas11;pavadinimas11;platina;5;13;950;120
+gamintojas12;pavadinimas12;platina;7;12;700;290
+gamintojas13;pavadinimas13;sidabras;3;12;830;128
+gamintojas14;pavadinimas14;sidabras;8;13;925;123
+gamintojas15;pavadinimas15;sidabras;3;18;800;584
+gamintojas16;pavadinimas16;paladis;4;14;500;105
+gamintojas17;pavadinimas17;paladis;2;13;850;204
+gamintojas18;pavadinimas18;auksas;1;17;585;307

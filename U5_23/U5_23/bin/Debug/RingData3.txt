@@ -1,0 +1,12 @@
+﻿Parduotuve3
+Adresas3
+TelefonoNr3
+Ring;aaaaa;pavadinimas19;platina;2;321;600;4
+Ring;baaaab;pavadinimas20;auksas;3;231;300;4
+Ring;aaaba;pavadinimas21;auksas;2;894;521;4
+Earrings;aaaba;pavadinimas22;platina;3;321;562;4
+Collar;baaaab;pavadinimas23;paladis;2;896;642;41
+Ring;baabbb;pavadinimas24;auksas;3;985;321;4
+Ring;abaabb;pavadinimas25;sidabras;2;652;842;4
+Earrings;baaabb;pavadinimas7;sidabras;1;925;654;type1
+Earrings;baaab;pavadinimas27;auksas;2;657;489;type2

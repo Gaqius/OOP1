@@ -1,0 +1,5 @@
+﻿trumpiausių žodžių, bet ne trumpesnių nei 3 simboliai. sąrašą (ne daugiau nei 10 žodžių) ir jų trumpesnių.
+pasikartojimo skaičių. trumpesnių skiriančių fragmentą.
+ilgiausią (didžiausias žodžių kiekis) teksto. fragmentą. sudarytą iš žodžių, kur žodžio paskutinė raidė teksto
+sutampa su kito žodžio pirmąja raide. (tarp didžiųjų ir mažųjų raidžių skirtumo nedaryti) ir juos teksto
+skiriančių skyriklių, bei jo eilutės numerius; skiriančių fragmentą

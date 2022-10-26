@@ -1,0 +1,9 @@
+D:\Vytauto\HomeWork\Uni\IT\Savarankiski\U4H-23\U4H-23\bin\Debug\U4H-23.exe.config
+D:\Vytauto\HomeWork\Uni\IT\Savarankiski\U4H-23\U4H-23\bin\Debug\U4H-23.exe
+D:\Vytauto\HomeWork\Uni\IT\Savarankiski\U4H-23\U4H-23\bin\Debug\U4H-23.pdb
+D:\Vytauto\HomeWork\Uni\IT\Savarankiski\U4H-23\U4H-23\obj\Debug\U4H-23.csproj.AssemblyReference.cache
+D:\Vytauto\HomeWork\Uni\IT\Savarankiski\U4H-23\U4H-23\obj\Debug\U4H-23.csproj.CoreCompileInputs.cache
+D:\Vytauto\HomeWork\Uni\IT\Savarankiski\U4H-23\U4H-23\obj\Debug\U4H-23.exe
+D:\Vytauto\HomeWork\Uni\IT\Savarankiski\U4H-23\U4H-23\obj\Debug\U4H-23.pdb
+D:\Vytauto\HomeWork\Uni\IT\Savarankiski\U4H-23\U4H-23\bin\Debug\Knyga1.txt
+D:\Vytauto\HomeWork\Uni\IT\Savarankiski\U4H-23\U4H-23\bin\Debug\Knyga2.txt

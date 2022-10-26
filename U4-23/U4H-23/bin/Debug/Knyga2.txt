@@ -1,0 +1,3 @@
+﻿trumpiausių žodžių, bet ne trumpesnių nei 3 simboliai. sąrašą (ne daugiau nei 10 žodžių) ir jų.
+pasikartojimo skaičių.
+ilgiausią (didžiausias žodžių kiekis) teksto.

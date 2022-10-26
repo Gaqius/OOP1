@@ -1,0 +1,9 @@
+﻿gamintojas1;pavadinimas1;platina;2;6;950;600
+gamintojas2;pavadinimas2;auksas;1;5;375;400
+gamintojas5;pavadinimas3;auksas;1;3;585;475
+gamintojas6;pavadinimas4;auksas;1;4;750;600
+gamintojas3;pavadinimas5;sidabras;1;3;800;534
+gamintojas4;pavadinimas6;sidabras;3;9;830;454
+gamintojas7;pavadinimas7;sidabras;1;4;925;654
+gamintojas8;pavadinimas8;paladis;2;7;500;235
+gamintojas9;pavadinimas9;paladis;3;8;850;846 
